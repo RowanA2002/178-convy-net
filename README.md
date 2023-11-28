@@ -9,6 +9,13 @@ Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng Re
 
 [Data Set](http://ufldl.stanford.edu/housenumbers)
 
+## Requirements
+
+### Installing Libraries
+
+ ```pip install scipy```
+
+
 ## Repo Organization
 
 ### ML Data
