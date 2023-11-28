@@ -12,10 +12,10 @@ Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng Re
 ## Repo Organization
 
 ### ML Data
-Add the train and test folders to data following the structure below. They will be ignored and never committed.
+Add the train and test data to /data following the structure below. They will be ignored and never committed.
 ```
 178-compy-net/
               data/
-                  train/
-                  test/
+                  train_32x32.mat
+                  test_32x32.mat
 ```
