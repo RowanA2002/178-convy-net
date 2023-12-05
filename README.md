@@ -11,9 +11,13 @@ Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng Re
 
 ## Requirements
 
-### Installing Libraries
+### Installing Libraries (Execute in Conda)
 
- ```pip install scipy```
+ ```
+ pip install scipy
+ pip install torch
+ pip install torchvision
+ ```
 
 
 ## Repo Organization
