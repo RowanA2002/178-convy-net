@@ -17,6 +17,8 @@ Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng Re
  pip install scipy
  pip install torch
  pip install torchvision
+ pip install torchsummary
+ pip install torchensemble
  ```
 
 
